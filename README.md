@@ -1,5 +1,7 @@
 # Chat Básico Cliente-Servidor con Sockets y SQLite
 
+\## 📌 Información General - \*\*Materia:\*\* Programación sobre Redes - \*\*Estudiante:\*\* [Tu Nombre y Apellido] - \*\*Profesor:\*\* [Nombre del Profesor] - \*\*Cátedra / Comisión:\*\* [Número de Comisión o Universidad] - \*\*Año:\*\* 2026
+
 Este proyecto es una implementación en Python de una arquitectura **Cliente-Servidor** utilizando sockets TCP/IP, concurrencia mediante hilos (`threading`) y almacenamiento persistente en una base de datos **SQLite3**.
 
 ## 🚀 Características
