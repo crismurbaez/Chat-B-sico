@@ -2,9 +2,8 @@
 
 ## 📌 Información General
 - **Materia:** Programación sobre Redes
-- **Estudiante:** [Tu Nombre y Apellido]
-- **Profesor:** [Nombre del Profesor]
-- **Cátedra / Comisión:** [Número de Comisión o Universidad]
+- **Estudiante:** Cristina Laura Murguía Báez
+- **Comisión:** E
 - **Año:** 2026
 
 ---
